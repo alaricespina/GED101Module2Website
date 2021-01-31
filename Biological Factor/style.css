@@ -1,0 +1,29 @@
+#Factor {
+    position: absolute;
+    z-index: 10;
+    background-color: white;
+    height: auto;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+#Factor h1 {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 7em;
+}
+
+#PicContainer img{
+    width: 100%;
+}
+
+#Explain {
+    background-color: grey;
+}
+
+#ExplainTitle h1{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+#Explanation {
+    font-family: 'Roboto', sans-serif;
+}
